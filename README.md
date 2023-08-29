@@ -44,10 +44,12 @@ A Time Series is a set of observations that are collected after regular interval
 ![image](https://github.com/GalennagariLavanya/Time-Series-Analysis/assets/143246929/91e6a405-56b3-4783-90e3-dbc9a0c2d3ff)
 
 # Final Result for "Low" Coloumn.
-![image](https://github.com/GalennagariLavanya/Time-Series-Analysis/assets/143246929/0398f90f-1acd-4df1-aacf-ee18cfcff834)
+![image](https://github.com/GalennagariLavanya/Time-Series-Analysis/assets/143246929/ef44dec3-16e2-46ca-9502-5b10b2dcf401)
+
 
 # Final Result for "High" Coloumn.
-![image](https://github.com/GalennagariLavanya/Time-Series-Analysis/assets/143246929/c3d8b148-f7ef-4c22-a4d7-2819620ac587)
+![image](https://github.com/GalennagariLavanya/Time-Series-Analysis/assets/143246929/056709d5-7cd3-413d-80c6-172c80a78e6c)
+
 
 # Final Result for "Volume" Coloumn.
 ![image](https://github.com/GalennagariLavanya/Time-Series-Analysis/assets/143246929/9e1ced2c-bdcd-4dbf-8005-671304f06273)
